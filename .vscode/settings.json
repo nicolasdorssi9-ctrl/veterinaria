@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\Users\\Alumno\\Desktop\\Proyecto__Veterinaria\\veterinaria\\lib\\flatlaf-3.7.2.jar",
+        "c:\\Users\\Alumno\\Desktop\\Proyecto__Veterinaria\\veterinaria\\lib\\mysql-connector-j-8.0.33.jar"
+    ]
+}
